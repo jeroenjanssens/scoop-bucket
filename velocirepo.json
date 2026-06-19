@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/jeroenjanssens/velocirepo/releases/download/v0.2.1/velocirepo_0.2.1_windows_amd64.zip",
-      "hash": "3c059b3bbbcc895692a67b32f9ec0cc497b37f5c2965dbeea837cba2c6c016e0"
+      "hash": "3b0e7208daf792b394c059368d73dec8feccb0b1405f66d56aebfbf89762d363"
     }
   },
   "bin": "velocirepo.exe",
