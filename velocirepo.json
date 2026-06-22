@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Fetch and store open-source project metrics",
   "homepage": "https://github.com/jeroenjanssens/velocirepo",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/jeroenjanssens/velocirepo/releases/download/v0.3.0/velocirepo_0.3.0_windows_amd64.zip",
-      "hash": "a1bf595b756d1658a87452f0ca3626a0a9b174f1d9bb37d790a73e56ea5a0e3b"
+      "url": "https://github.com/jeroenjanssens/velocirepo/releases/download/v0.3.1/velocirepo_0.3.1_windows_amd64.zip",
+      "hash": "00e327e2b79e51245bc3f679c99078ce260cd7f0659c770d021bb22a2ac42200"
     }
   },
   "bin": "velocirepo.exe",
