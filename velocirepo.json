@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Track your open-source project's pulse across package registries, GitHub, and the web",
   "homepage": "https://github.com/jeroenjanssens/velocirepo",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/jeroenjanssens/velocirepo/releases/download/v0.4.0/velocirepo_0.4.0_windows_amd64.zip",
-      "hash": "e2e03d6291c0eecd30341d5fb97892da44ae54568080b079c58d5cc3d7935b78"
+      "url": "https://github.com/jeroenjanssens/velocirepo/releases/download/v0.5.0/velocirepo_0.5.0_windows_amd64.zip",
+      "hash": "fc1f8f732df8df46e90cee78f721dc3229c16f4e072d51046399d5187071ffc1"
     }
   },
   "bin": "velocirepo.exe",
